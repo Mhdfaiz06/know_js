@@ -1,0 +1,16 @@
+let maths = 67;
+let physics = 78;
+let chemistry = 89;
+let english = 90;
+let computer_science = 95;
+let total_marks = maths + physics + chemistry + english + computer_science;
+let average = total_marks / 5;
+let percentage = (total_marks / 500) * 100;
+console.log('Mathematics : ' + maths);
+console.log('Physics : ' + physics);
+console.log('Chemistry : ' + chemistry);
+console.log('English : ' + english);
+console.log('Computer Science : ' + computer_science);
+console.log('Total Marks : ' + total_marks);
+console.log('Average : ' + average);
+console.log('Percentage : ' + percentage + '%');

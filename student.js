@@ -1,0 +1,10 @@
+let name = "Mohammed Faiz";
+let age = "21";
+let college = "Saintgits College of Engineering";
+let course = "Btech Computer science and engineering";
+let city= "Kottayam";
+console.log("Student Name : " ,name );
+console.log("Student Age : " ,age );
+console.log("Student College : " ,college );
+console.log("Student Course : " ,course );
+console.log("Student City : " ,city );
